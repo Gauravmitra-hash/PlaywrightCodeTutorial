@@ -1,2 +1,3 @@
 # Adding new lines by Gaurav Mitra
 # The user name is Gaurav Mitra.
+# This user is learning Git.
